@@ -14,6 +14,13 @@ https://crypto.stanford.edu/craig/easy-fhe.pdf</br>
 
 https://zhuanlan.zhihu.com/p/103477017</br>
 
+## TFHE
+https://www.zama.ai/post/tfhe-deep-dive-part-1</br>
+https://www.zama.ai/post/tfhe-deep-dive-part-2</br>
+https://www.zama.ai/post/tfhe-deep-dive-part-3</br>
+https://www.zama.ai/post/tfhe-deep-dive-part-4</br>
+
+
 ## fhe研究进展
 
 https://www.bilibili.com/video/BV18q4y1q7T8/</br>
