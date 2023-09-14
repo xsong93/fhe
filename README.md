@@ -50,4 +50,5 @@ https://jinchao.fun/2019/05/11/%E5%88%86%E5%9C%86%E5%A4%9A%E9%A1%B9%E5%BC%8F/</b
 ## fft
 http://staff.ustc.edu.cn/~csli/graduate/algorithms/book6/chap32.htm</br>
 
-
+## Gadget Decomposition
+https://jeremykun.com/2021/12/11/the-gadget-decomposition-in-fhe/</br>
