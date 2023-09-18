@@ -19,6 +19,7 @@ https://www.zama.ai/post/tfhe-deep-dive-part-1</br>
 https://www.zama.ai/post/tfhe-deep-dive-part-2</br>
 https://www.zama.ai/post/tfhe-deep-dive-part-3</br>
 https://www.zama.ai/post/tfhe-deep-dive-part-4</br>
+[SoK: Fully Homomorphic Encryption over the Discretized Torus](https://marcjoye.github.io/papers/Joy22dtorus.pdf)[IACR TCHES]</br>
 
 
 ## fhe研究进展
