@@ -19,6 +19,8 @@ https://www.zama.ai/post/tfhe-deep-dive-part-1</br>
 https://www.zama.ai/post/tfhe-deep-dive-part-2</br>
 https://www.zama.ai/post/tfhe-deep-dive-part-3</br>
 https://www.zama.ai/post/tfhe-deep-dive-part-4</br>
+[Faster Fully Homomorphic Encryption: Bootstrapping in Less Than 0.1 Seconds](https://eprint.iacr.org/2016/870.pdf)[ASIACRYPT]</br>
+[Improving TFHE: faster packed homomorphic operations and efficient circuit bootstrapping](https://eprint.iacr.org/2017/430.pdf)[ASIACRYPT]</br>
 [SoK: Fully Homomorphic Encryption over the Discretized Torus](https://marcjoye.github.io/papers/Joy22dtorus.pdf)[IACR TCHES]</br>
 
 
