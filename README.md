@@ -30,8 +30,10 @@ https://www.bilibili.com/video/BV18q4y1q7T8/</br>
 https://fhe.org/</br>
 <br></br><br></br>
 
-
-
+# Xilinx Vitis Unified IDE(HLS)
+[Vitis Tutorials: Step by step](https://docs.xilinx.com/r/en-US/Vitis-Tutorials-Getting-Started/Vitis-Tutorials-Getting-Started)</br>
+[Vitis Tutorials Example Codes](https://github.com/Xilinx/Vitis-Tutorials/tree/2023.1/Getting_Started)</br>
+[Vitis Embedded Platform Source](https://github.com/Xilinx/Vitis_Embedded_Platform_Source)</br>
 
 # 一些数学知识
 
