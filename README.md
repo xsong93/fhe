@@ -35,6 +35,7 @@ https://fhe.org/</br>
 [Vitis Tutorials Example Codes](https://github.com/Xilinx/Vitis-Tutorials/tree/2023.1/Getting_Started)</br>
 [Vitis Embedded Platform Source](https://github.com/Xilinx/Vitis_Embedded_Platform_Source)</br>
 [Vitis Libraries](https://docs.xilinx.com/r/en-US/Vitis_Libraries/index.html)</br>
+[HLS Pragmas](https://www.xilinx.com/htmldocs/xilinx2019_1/sdaccel_doc/hls-pragmas-okr1504034364623.html#fde1504034360078)</br>
 <br></br><br></br>
 
 
