@@ -19,9 +19,16 @@ https://www.zama.ai/post/tfhe-deep-dive-part-1</br>
 https://www.zama.ai/post/tfhe-deep-dive-part-2</br>
 https://www.zama.ai/post/tfhe-deep-dive-part-3</br>
 https://www.zama.ai/post/tfhe-deep-dive-part-4</br>
-[Faster Fully Homomorphic Encryption: Bootstrapping in Less Than 0.1 Seconds](https://eprint.iacr.org/2016/870.pdf)[ASIACRYPT]</br>
-[Improving TFHE: faster packed homomorphic operations and efficient circuit bootstrapping](https://eprint.iacr.org/2017/430.pdf)[ASIACRYPT]</br>
-[SoK: Fully Homomorphic Encryption over the Discretized Torus](https://marcjoye.github.io/papers/Joy22dtorus.pdf)[IACR TCHES]</br>
+[Faster Fully Homomorphic Encryption: Bootstrapping in Less Than 0.1 Seconds](https://eprint.iacr.org/2016/870.pdf)[ASIACRYPT'16]</br>
+[Improving TFHE: faster packed homomorphic operations and efficient circuit bootstrapping](https://eprint.iacr.org/2017/430.pdf)[ASIACRYPT'17]</br>
+[SoK: Fully Homomorphic Encryption over the Discretized Torus](https://marcjoye.github.io/papers/Joy22dtorus.pdf)[IACR TCHES'21]</br>
+
+## OpenFHE
+[OpenFHE Main Repo](https://github.com/openfheorg/openfhe-development)</br>
+[HEXL FPGA Acceleration](https://github.com/openfheorg/openfhe-hexl)</br>
+[OpenFHE Community](https://openfhe.discourse.group/)</br>
+[OpenFHE: Open-Source Fully Homomorphic Encryption Library](https://dl.acm.org/doi/pdf/10.1145/3560827.3563379)[WAHC'22]</br>
+[Demystifying Bootstrapping in Fully Homomorphic Encryption](https://eprint.iacr.org/2023/149.pdf)[Cryptology ePrint Archive, Paper 2023/149]</br>
 
 
 ## fhe研究进展
@@ -29,6 +36,7 @@ https://www.zama.ai/post/tfhe-deep-dive-part-4</br>
 https://www.bilibili.com/video/BV18q4y1q7T8/</br>
 https://fhe.org/</br>
 <br></br><br></br>
+
 
 # Xilinx Vitis Unified IDE(HLS)
 [Vitis Tutorials: Step by step](https://docs.xilinx.com/r/en-US/Vitis-Tutorials-Getting-Started/Vitis-Tutorials-Getting-Started)</br>
