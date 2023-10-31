@@ -26,7 +26,8 @@ https://www.zama.ai/post/tfhe-deep-dive-part-4</br>
 ## OpenFHE
 [OpenFHE Main Repo](https://github.com/openfheorg/openfhe-development)</br>
 [HEXL FPGA Acceleration](https://github.com/openfheorg/openfhe-hexl)</br>
-[OpenFHE Community](https://openfhe.discourse.group/)</br>
+[OpenFHE Community](https://www.openfhe.org/)</br>
+[Discourse Forum](https://openfhe.discourse.group/)</br>
 [OpenFHE: Open-Source Fully Homomorphic Encryption Library](https://dl.acm.org/doi/pdf/10.1145/3560827.3563379)[WAHC'22]</br>
 [Demystifying Bootstrapping in Fully Homomorphic Encryption](https://eprint.iacr.org/2023/149.pdf)[Cryptology ePrint Archive, Paper 2023/149]</br>
 
