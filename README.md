@@ -39,10 +39,10 @@ https://fhe.org/</br>
 <br></br><br></br>
 
 
-# Xilinx Vitis Unified IDE(HLS)
+# High Level Synthesis
 
 ## Tutorials
-[Vitis Tutorials: Step by step](https://docs.xilinx.com/r/en-US/Vitis-Tutorials-Getting-Started/Vitis-Tutorials-Getting-Started)</br>
+[Xilinx Vitis Unified IDE Tutorials: Step by step](https://docs.xilinx.com/r/en-US/Vitis-Tutorials-Getting-Started/Vitis-Tutorials-Getting-Started)</br>
 [Vitis HLS User Guide](https://docs.xilinx.com/r/en-US/ug1399-vitis-hls/Launching-the-Vitis-Unified-IDE)</br>
 
 ## Example codes
