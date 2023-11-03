@@ -40,12 +40,21 @@ https://fhe.org/</br>
 
 
 # Xilinx Vitis Unified IDE(HLS)
+
+## Tutorials
 [Vitis Tutorials: Step by step](https://docs.xilinx.com/r/en-US/Vitis-Tutorials-Getting-Started/Vitis-Tutorials-Getting-Started)</br>
+[Vitis HLS User Guide](https://docs.xilinx.com/r/en-US/ug1399-vitis-hls/Launching-the-Vitis-Unified-IDE)</br>
+
+## Example codes
 [Vitis Tutorials Example Codes](https://github.com/Xilinx/Vitis-Tutorials/tree/2023.1/Getting_Started)</br>
+[Vitis Hardware Accleration Tutorials](https://github.com/Xilinx/Vitis-Tutorials/tree/2023.2/Hardware_Acceleration)</br>
+
+## Resources
 [Vitis Embedded Platform Source](https://github.com/Xilinx/Vitis_Embedded_Platform_Source)</br>
 [Vitis Libraries](https://docs.xilinx.com/r/en-US/Vitis_Libraries/index.html)</br>
+
+## Technical handbooks
 [HLS Pragmas](https://www.xilinx.com/htmldocs/xilinx2019_1/sdaccel_doc/hls-pragmas-okr1504034364623.html#fde1504034360078)</br>
-[Vitis HLS UG](https://docs.xilinx.com/r/en-US/ug1399-vitis-hls/Launching-the-Vitis-Unified-IDE)</br>
 [OpenCL guide](https://docs.xilinx.com/r/en-US/ug1393-vitis-application-acceleration/OpenCL-Programming)</br>
 <br></br><br></br>
 
