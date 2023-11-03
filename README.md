@@ -46,6 +46,7 @@ https://fhe.org/</br>
 [Vitis Libraries](https://docs.xilinx.com/r/en-US/Vitis_Libraries/index.html)</br>
 [HLS Pragmas](https://www.xilinx.com/htmldocs/xilinx2019_1/sdaccel_doc/hls-pragmas-okr1504034364623.html#fde1504034360078)</br>
 [Vitis HLS UG](https://docs.xilinx.com/r/en-US/ug1399-vitis-hls/Launching-the-Vitis-Unified-IDE)</br>
+[OpenCL guide](https://docs.xilinx.com/r/en-US/ug1393-vitis-application-acceleration/OpenCL-Programming)</br>
 <br></br><br></br>
 
 
