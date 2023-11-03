@@ -48,6 +48,7 @@ https://fhe.org/</br>
 ## Example codes
 [Vitis Tutorials Example Codes](https://github.com/Xilinx/Vitis-Tutorials/tree/2023.1/Getting_Started)</br>
 [Vitis Hardware Accleration Tutorials](https://github.com/Xilinx/Vitis-Tutorials/tree/2023.2/Hardware_Acceleration)</br>
+[More Vitis Accel Examples](https://github.com/Xilinx/Vitis_Accel_Examples)</br>
 
 ## Resources
 [Vitis Embedded Platform Source](https://github.com/Xilinx/Vitis_Embedded_Platform_Source)</br>
@@ -56,6 +57,7 @@ https://fhe.org/</br>
 ## Technical handbooks
 [HLS Pragmas](https://www.xilinx.com/htmldocs/xilinx2019_1/sdaccel_doc/hls-pragmas-okr1504034364623.html#fde1504034360078)</br>
 [OpenCL guide](https://docs.xilinx.com/r/en-US/ug1393-vitis-application-acceleration/OpenCL-Programming)</br>
+[XRT guide](https://xilinx.github.io/XRT/master/html/xrt_native_apis.html#)</br>
 <br></br><br></br>
 
 
