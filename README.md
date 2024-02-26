@@ -44,6 +44,7 @@ https://fhe.org/</br>
 ## Tutorials
 [Xilinx Vitis Unified IDE Tutorials: Step by step](https://docs.xilinx.com/r/en-US/Vitis-Tutorials-Getting-Started/Vitis-Tutorials-Getting-Started)</br>
 [Vitis HLS User Guide](https://docs.xilinx.com/r/en-US/ug1399-vitis-hls/Launching-the-Vitis-Unified-IDE)</br>
+[Alveo Data Center Accelerator Cards User Guide (UG1301)](https://docs.xilinx.com/r/en-US/ug1301-getting-started-guide-alveo-accelerator-cards/XRT-and-Deployment-Package-Installation-Procedures-on-Ubuntu)</br>
 
 ## Example codes
 [Vitis Tutorials Example Codes](https://github.com/Xilinx/Vitis-Tutorials/tree/2023.1/Getting_Started)</br>
