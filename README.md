@@ -22,6 +22,7 @@ https://www.zama.ai/post/tfhe-deep-dive-part-4</br>
 [Faster Fully Homomorphic Encryption: Bootstrapping in Less Than 0.1 Seconds](https://eprint.iacr.org/2016/870.pdf)[ASIACRYPT'16]</br>
 [Improving TFHE: faster packed homomorphic operations and efficient circuit bootstrapping](https://eprint.iacr.org/2017/430.pdf)[ASIACRYPT'17]</br>
 [SoK: Fully Homomorphic Encryption over the Discretized Torus](https://marcjoye.github.io/papers/Joy22dtorus.pdf)[IACR TCHES'21]</br>
+[Guide to Fully Homomorphic Encryption over the [Discretized] Torus](https://eprint.iacr.org/2021/1402.pdf)[TCHES'21]</br>
 
 ## OpenFHE
 [OpenFHE Main Repo](https://github.com/openfheorg/openfhe-development)</br>
